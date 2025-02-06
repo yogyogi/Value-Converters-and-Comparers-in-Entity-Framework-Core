@@ -1,6 +1,6 @@
 # Value Converters and Comparers in Entity Framework Core
 
-<img src="https://www.yogihosting.com/wp-content/uploads/2024/09/Blazor-QuickGrid.png" alt="Blazor QuickGrid Tutorial"  title="Blazor QuickGrid Tutorial">
+<img src="https://www.yogihosting.com/wp-content/uploads/2025/02/Value-Converters-Comparers.png" alt="Value Converters and Value Comparers"  title="Value Converters and Value Comparers">
 
 Entity Framework Core deals with object values with Value Converters and Value Comparers. The Value Converters, as the name suggest, helps in converting object values from one type to another while Value Comparers helps in comparing the object values needed for change tracking, custom comparision codes, etc. In this repository we are going to see all the examples to learn how Value Converters and Value Comparers work. Tutorial link - <a href="https://www.yogihosting.com/value-converters-comparers-entity-framework-core/" target="_blank">link</a>
 
