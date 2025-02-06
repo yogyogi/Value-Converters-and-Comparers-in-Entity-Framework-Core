@@ -7,6 +7,9 @@ Entity Framework Core deals with object values with Value Converters and Value C
 ## Version
 .NET 9.0
 
+## Instruction
+Change the database connection string in the appsettings.json file and then perform migration - `PM> add-migration Migration1` `PM> Update-Database`
+
 ## What you will learn
 You will learn:
 
