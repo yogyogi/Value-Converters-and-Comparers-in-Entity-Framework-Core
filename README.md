@@ -7,7 +7,7 @@ Entity Framework Core deals with object values with Value Converters and Value C
 ## Version
 .NET 9.0
 
-## What you will learn from this Project
+## What you will learn
 You will learn:
 
 - [x] Example of Value Converters and Value Comparers
