@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Create Student";
+}
+
+@model Student
+
+<h1 class="bg-info text-white">Create Student</h1>
+<a asp-action="Index" class="btn btn-secondary">Back</a>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="PassStatus"></label>
+        <select asp-for="PassStatus" class="form-control">
+            <option value="true">True</option>
+            <option value="false">False</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
